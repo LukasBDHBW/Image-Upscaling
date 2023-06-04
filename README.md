@@ -13,3 +13,6 @@ FSRCNN review: https://towardsdatascience.com/review-fsrcnn-super-resolution-80c
 ## Papers
 Super Resolution Convolutional Neural Networks (SRCNN): https://arxiv.org/pdf/1608.00367.pdf
 Fast SRCNN (FSRCNN): https://arxiv.org/pdf/1501.00092.pdf
+
+## Evaluation Metric for tested approaches
+Peak signal-to-noise ratio (PSNR): https://de.mathworks.com/help/vision/ref/psnr.html
