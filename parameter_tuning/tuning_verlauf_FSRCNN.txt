@@ -1,0 +1,282 @@
+Epoch [1/10], Training Loss: 0.0334, Validation Loss: 0.0090, PSNR: 20.478573734888226
+Epoch [2/10], Training Loss: 0.0084, Validation Loss: 0.0074, PSNR: 21.295122302071597
+Epoch [3/10], Training Loss: 0.0053, Validation Loss: 0.0041, PSNR: 23.89880836948556
+Epoch [4/10], Training Loss: 0.0039, Validation Loss: 0.0037, PSNR: 24.354930725446305
+Epoch [5/10], Training Loss: 0.0034, Validation Loss: 0.0035, PSNR: 24.533360076876413
+Epoch [6/10], Training Loss: 0.0034, Validation Loss: 0.0039, PSNR: 24.10621758620035
+Epoch [7/10], Training Loss: 0.0032, Validation Loss: 0.0032, PSNR: 24.955321033225463
+Epoch [8/10], Training Loss: 0.0031, Validation Loss: 0.0031, PSNR: 25.06469860319189
+Epoch [9/10], Training Loss: 0.0030, Validation Loss: 0.0032, PSNR: 25.01454970866549
+[I 2023-06-27 10:48:47,798] Trial 0 finished with value: 0.0030055847329397995 and parameters: {'lr': 0.0020513897738783315, 'd': 41, 's': 7, 'm': 4}. Best is trial 0 with value: 0.0030055847329397995.
+Epoch [10/10], Training Loss: 0.0031, Validation Loss: 0.0030, PSNR: 25.220710239657123
+Epoch [1/10], Training Loss: 0.0452, Validation Loss: 0.0116, PSNR: 19.339117407295046
+Epoch [2/10], Training Loss: 0.0111, Validation Loss: 0.0082, PSNR: 20.847388771946882
+Epoch [3/10], Training Loss: 0.0081, Validation Loss: 0.0074, PSNR: 21.327709866439708
+Epoch [4/10], Training Loss: 0.0064, Validation Loss: 0.0044, PSNR: 23.54008887070584
+Epoch [5/10], Training Loss: 0.0041, Validation Loss: 0.0040, PSNR: 23.943167693666773
+Epoch [6/10], Training Loss: 0.0038, Validation Loss: 0.0037, PSNR: 24.319502284924713
+Epoch [7/10], Training Loss: 0.0036, Validation Loss: 0.0043, PSNR: 23.695366459523296
+Epoch [8/10], Training Loss: 0.0035, Validation Loss: 0.0035, PSNR: 24.5981388596187
+Epoch [9/10], Training Loss: 0.0037, Validation Loss: 0.0076, PSNR: 21.209659808187133
+[I 2023-06-27 10:54:52,527] Trial 1 finished with value: 0.003468854740882913 and parameters: {'lr': 0.009081346094376965, 'd': 86, 's': 13, 'm': 5}. Best is trial 0 with value: 0.0030055847329397995.
+Epoch [10/10], Training Loss: 0.0034, Validation Loss: 0.0053, PSNR: 22.77001013018017
+Epoch [1/10], Training Loss: 0.0404, Validation Loss: 0.0113, PSNR: 19.45456191511498
+Epoch [2/10], Training Loss: 0.0095, Validation Loss: 0.0083, PSNR: 20.830705557606073
+Epoch [3/10], Training Loss: 0.0079, Validation Loss: 0.0073, PSNR: 21.368417729568424
+Epoch [4/10], Training Loss: 0.0052, Validation Loss: 0.0046, PSNR: 23.40622598445983
+Epoch [5/10], Training Loss: 0.0045, Validation Loss: 0.0041, PSNR: 23.868621168041
+Epoch [6/10], Training Loss: 0.0038, Validation Loss: 0.0037, PSNR: 24.274060263737
+Epoch [7/10], Training Loss: 0.0035, Validation Loss: 0.0048, PSNR: 23.157250619064854
+Epoch [8/10], Training Loss: 0.0036, Validation Loss: 0.0034, PSNR: 24.659427898026614
+Epoch [9/10], Training Loss: 0.0033, Validation Loss: 0.0034, PSNR: 24.723726151861392
+[I 2023-06-27 11:00:57,476] Trial 2 finished with value: 0.00326818882022053 and parameters: {'lr': 0.0010691800704168213, 'd': 51, 's': 5, 'm': 4}. Best is trial 0 with value: 0.0030055847329397995.
+Epoch [10/10], Training Loss: 0.0034, Validation Loss: 0.0033, PSNR: 24.856928599698193
+Epoch [1/10], Training Loss: 0.0322, Validation Loss: 0.0089, PSNR: 20.502737567009067
+Epoch [2/10], Training Loss: 0.0084, Validation Loss: 0.0077, PSNR: 21.157444103655664
+Epoch [3/10], Training Loss: 0.0061, Validation Loss: 0.0043, PSNR: 23.647568977504967
+Epoch [4/10], Training Loss: 0.0039, Validation Loss: 0.0038, PSNR: 24.236911266422933
+Epoch [5/10], Training Loss: 0.0036, Validation Loss: 0.0035, PSNR: 24.529048845638073
+Epoch [6/10], Training Loss: 0.0034, Validation Loss: 0.0041, PSNR: 23.838575812378995
+Epoch [7/10], Training Loss: 0.0033, Validation Loss: 0.0033, PSNR: 24.814338657151822
+Epoch [8/10], Training Loss: 0.0035, Validation Loss: 0.0032, PSNR: 24.884097464940886
+Epoch [9/10], Training Loss: 0.0031, Validation Loss: 0.0032, PSNR: 25.006019605271398
+[I 2023-06-27 11:07:02,411] Trial 3 finished with value: 0.00285804474260658 and parameters: {'lr': 0.0013251335904363142, 'd': 97, 's': 9, 'm': 6}. Best is trial 3 with value: 0.00285804474260658.
+Epoch [10/10], Training Loss: 0.0030, Validation Loss: 0.0029, PSNR: 25.439309766244595
+Epoch [1/10], Training Loss: 0.0807, Validation Loss: 0.0200, PSNR: 16.999164959629557
+Epoch [2/10], Training Loss: 0.0147, Validation Loss: 0.0120, PSNR: 19.20196231179332
+Epoch [3/10], Training Loss: 0.0107, Validation Loss: 0.0093, PSNR: 20.306691572575257
+Epoch [4/10], Training Loss: 0.0090, Validation Loss: 0.0086, PSNR: 20.63621074326342
+Epoch [5/10], Training Loss: 0.0085, Validation Loss: 0.0083, PSNR: 20.830704308799675
+Epoch [6/10], Training Loss: 0.0081, Validation Loss: 0.0079, PSNR: 21.046840046190134
+Epoch [7/10], Training Loss: 0.0077, Validation Loss: 0.0075, PSNR: 21.269051726324605
+Epoch [8/10], Training Loss: 0.0073, Validation Loss: 0.0070, PSNR: 21.52326342265046
+Epoch [9/10], Training Loss: 0.0067, Validation Loss: 0.0057, PSNR: 22.471299210435163
+[I 2023-06-27 11:13:10,547] Trial 4 finished with value: 0.0041436144538844625 and parameters: {'lr': 0.0002720172212978482, 'd': 68, 's': 11, 'm': 6}. Best is trial 3 with value: 0.00285804474260658.
+Epoch [10/10], Training Loss: 0.0045, Validation Loss: 0.0041, PSNR: 23.826206606807965
+Epoch [1/10], Training Loss: 0.0291, Validation Loss: 0.0099, PSNR: 20.039538160432674
+Epoch [2/10], Training Loss: 0.0084, Validation Loss: 0.0076, PSNR: 21.169124138896088
+Epoch [3/10], Training Loss: 0.0062, Validation Loss: 0.0041, PSNR: 23.861522444846063
+Epoch [4/10], Training Loss: 0.0038, Validation Loss: 0.0037, PSNR: 24.347158417896505
+Epoch [5/10], Training Loss: 0.0035, Validation Loss: 0.0034, PSNR: 24.73109243013767
+Epoch [6/10], Training Loss: 0.0034, Validation Loss: 0.0039, PSNR: 24.05172828803149
+Epoch [7/10], Training Loss: 0.0032, Validation Loss: 0.0032, PSNR: 24.993794988926915
+Epoch [8/10], Training Loss: 0.0031, Validation Loss: 0.0031, PSNR: 25.12439170570056
+Epoch [9/10], Training Loss: 0.0030, Validation Loss: 0.0036, PSNR: 24.39210529765791
+[I 2023-06-27 11:19:15,653] Trial 5 finished with value: 0.002567346937333544 and parameters: {'lr': 0.005901715280878021, 'd': 89, 's': 18, 'm': 3}. Best is trial 5 with value: 0.002567346937333544.
+Epoch [10/10], Training Loss: 0.0029, Validation Loss: 0.0026, PSNR: 25.905154391631875
+Epoch [1/10], Training Loss: 0.0982, Validation Loss: 0.0231, PSNR: 16.37202891758852
+Epoch [2/10], Training Loss: 0.0170, Validation Loss: 0.0134, PSNR: 18.733588320497375
+Epoch [3/10], Training Loss: 0.0123, Validation Loss: 0.0108, PSNR: 19.65041161140548
+Epoch [4/10], Training Loss: 0.0100, Validation Loss: 0.0093, PSNR: 20.305072020719372
+Epoch [5/10], Training Loss: 0.0092, Validation Loss: 0.0089, PSNR: 20.512581562119223
+Epoch [6/10], Training Loss: 0.0088, Validation Loss: 0.0086, PSNR: 20.665643234149798
+Epoch [7/10], Training Loss: 0.0085, Validation Loss: 0.0083, PSNR: 20.814966321335156
+Epoch [8/10], Training Loss: 0.0081, Validation Loss: 0.0079, PSNR: 21.037095120137725
+Epoch [9/10], Training Loss: 0.0077, Validation Loss: 0.0074, PSNR: 21.299080134334357
+[I 2023-06-27 11:25:21,664] Trial 6 finished with value: 0.006763569203515848 and parameters: {'lr': 0.00020797697871512375, 'd': 40, 's': 15, 'm': 8}. Best is trial 5 with value: 0.002567346937333544.
+Epoch [10/10], Training Loss: 0.0071, Validation Loss: 0.0068, PSNR: 21.698240619989065
+Epoch [1/10], Training Loss: 0.0308, Validation Loss: 0.0095, PSNR: 20.228930287842935
+Epoch [2/10], Training Loss: 0.0088, Validation Loss: 0.0079, PSNR: 21.002572568092354
+Epoch [3/10], Training Loss: 0.0061, Validation Loss: 0.0046, PSNR: 23.395313451972648
+Epoch [4/10], Training Loss: 0.0044, Validation Loss: 0.0039, PSNR: 24.044944744666964
+Epoch [5/10], Training Loss: 0.0036, Validation Loss: 0.0037, PSNR: 24.364726602491295
+Epoch [6/10], Training Loss: 0.0036, Validation Loss: 0.0040, PSNR: 23.956003527977717
+Epoch [7/10], Training Loss: 0.0033, Validation Loss: 0.0033, PSNR: 24.812678239614733
+Epoch [8/10], Training Loss: 0.0032, Validation Loss: 0.0032, PSNR: 24.891507466861484
+Epoch [9/10], Training Loss: 0.0031, Validation Loss: 0.0031, PSNR: 25.06484650746934
+[I 2023-06-27 11:31:31,461] Trial 7 finished with value: 0.0027034430454174678 and parameters: {'lr': 0.0028164145423722883, 'd': 75, 's': 7, 'm': 7}. Best is trial 5 with value: 0.002567346937333544.
+Epoch [10/10], Training Loss: 0.0032, Validation Loss: 0.0027, PSNR: 25.680827754582335
+Epoch [1/10], Training Loss: 0.0632, Validation Loss: 0.0138, PSNR: 18.588508226495847
+Epoch [2/10], Training Loss: 0.0115, Validation Loss: 0.0096, PSNR: 20.189285479830392
+Epoch [3/10], Training Loss: 0.0092, Validation Loss: 0.0088, PSNR: 20.540811166631634
+Epoch [4/10], Training Loss: 0.0086, Validation Loss: 0.0082, PSNR: 20.86581448071133
+Epoch [5/10], Training Loss: 0.0079, Validation Loss: 0.0075, PSNR: 21.23025316190787
+Epoch [6/10], Training Loss: 0.0070, Validation Loss: 0.0059, PSNR: 22.31245137060477
+Epoch [7/10], Training Loss: 0.0047, Validation Loss: 0.0043, PSNR: 23.62352468734022
+Epoch [8/10], Training Loss: 0.0041, Validation Loss: 0.0040, PSNR: 24.00211468394009
+Epoch [9/10], Training Loss: 0.0038, Validation Loss: 0.0037, PSNR: 24.266766086084253
+[I 2023-06-27 11:37:38,447] Trial 8 finished with value: 0.003743892683026691 and parameters: {'lr': 0.0003931344249274683, 'd': 51, 's': 5, 'm': 3}. Best is trial 5 with value: 0.002567346937333544.
+Epoch [10/10], Training Loss: 0.0036, Validation Loss: 0.0038, PSNR: 24.146925233121994
+Epoch [1/10], Training Loss: 0.0318, Validation Loss: 0.0093, PSNR: 20.331197639022825
+Epoch [2/10], Training Loss: 0.0082, Validation Loss: 0.0076, PSNR: 21.211360744126537
+Epoch [3/10], Training Loss: 0.0065, Validation Loss: 0.0046, PSNR: 23.369321433303746
+Epoch [4/10], Training Loss: 0.0038, Validation Loss: 0.0036, PSNR: 24.3857702181087
+Epoch [5/10], Training Loss: 0.0035, Validation Loss: 0.0034, PSNR: 24.6463192119477
+Epoch [6/10], Training Loss: 0.0033, Validation Loss: 0.0033, PSNR: 24.767948123973603
+Epoch [7/10], Training Loss: 0.0033, Validation Loss: 0.0032, PSNR: 24.92979612799172
+Epoch [8/10], Training Loss: 0.0031, Validation Loss: 0.0032, PSNR: 24.957974831941243
+Epoch [9/10], Training Loss: 0.0030, Validation Loss: 0.0030, PSNR: 25.167584057877068
+[I 2023-06-27 11:43:45,388] Trial 9 finished with value: 0.002657987317070365 and parameters: {'lr': 0.0015226540460444504, 'd': 53, 's': 18, 'm': 6}. Best is trial 5 with value: 0.002567346937333544.
+Epoch [10/10], Training Loss: 0.0035, Validation Loss: 0.0027, PSNR: 25.754470956805314
+Epoch [1/10], Training Loss: 0.0337, Validation Loss: 0.0098, PSNR: 20.102628591447875
+Epoch [2/10], Training Loss: 0.0099, Validation Loss: 0.0065, PSNR: 21.847928556125193
+Epoch [3/10], Training Loss: 0.0047, Validation Loss: 0.0038, PSNR: 24.156340149601164
+Epoch [4/10], Training Loss: 0.0036, Validation Loss: 0.0041, PSNR: 23.891082431384252
+Epoch [5/10], Training Loss: 0.0034, Validation Loss: 0.0033, PSNR: 24.800886527184453
+Epoch [6/10], Training Loss: 0.0033, Validation Loss: 0.0032, PSNR: 24.955024779387152
+Epoch [7/10], Training Loss: 0.0035, Validation Loss: 0.0032, PSNR: 24.9163968581278
+Epoch [8/10], Training Loss: 0.0031, Validation Loss: 0.0032, PSNR: 24.947425511378334
+Epoch [9/10], Training Loss: 0.0032, Validation Loss: 0.0030, PSNR: 25.269696564391595
+[I 2023-06-27 11:49:49,511] Trial 10 finished with value: 0.0024125145204986135 and parameters: {'lr': 0.006763483531541751, 'd': 126, 's': 20, 'm': 2}. Best is trial 10 with value: 0.0024125145204986135.
+Epoch [10/10], Training Loss: 0.0028, Validation Loss: 0.0024, PSNR: 26.175300640345554
+Epoch [1/10], Training Loss: 0.0250, Validation Loss: 0.0088, PSNR: 20.57401887218993
+Epoch [2/10], Training Loss: 0.0100, Validation Loss: 0.0084, PSNR: 20.78222557608101
+Epoch [3/10], Training Loss: 0.0077, Validation Loss: 0.0103, PSNR: 19.885215685311437
+Epoch [4/10], Training Loss: 0.0045, Validation Loss: 0.0038, PSNR: 24.14697173736346
+Epoch [5/10], Training Loss: 0.0034, Validation Loss: 0.0036, PSNR: 24.412894549377487
+Epoch [6/10], Training Loss: 0.0033, Validation Loss: 0.0033, PSNR: 24.875015077367706
+Epoch [7/10], Training Loss: 0.0042, Validation Loss: 0.0037, PSNR: 24.36643055016257
+Epoch [8/10], Training Loss: 0.0031, Validation Loss: 0.0031, PSNR: 25.089590118814698
+Epoch [9/10], Training Loss: 0.0030, Validation Loss: 0.0032, PSNR: 24.970336578967892
+[I 2023-06-27 11:55:55,386] Trial 11 finished with value: 0.0029996424602965516 and parameters: {'lr': 0.00914290036631711, 'd': 126, 's': 20, 'm': 2}. Best is trial 10 with value: 0.0024125145204986135.
+Epoch [10/10], Training Loss: 0.0030, Validation Loss: 0.0030, PSNR: 25.229305075383323
+Epoch [1/10], Training Loss: 0.0268, Validation Loss: 0.0122, PSNR: 19.133218132417863
+Epoch [2/10], Training Loss: 0.0077, Validation Loss: 0.0052, PSNR: 22.8455874739656
+Epoch [3/10], Training Loss: 0.0040, Validation Loss: 0.0038, PSNR: 24.219122498361635
+Epoch [4/10], Training Loss: 0.0035, Validation Loss: 0.0035, PSNR: 24.604571474629132
+Epoch [5/10], Training Loss: 0.0034, Validation Loss: 0.0032, PSNR: 24.984415860300025
+Epoch [6/10], Training Loss: 0.0031, Validation Loss: 0.0029, PSNR: 25.38241514842389
+Epoch [7/10], Training Loss: 0.0026, Validation Loss: 0.0025, PSNR: 25.938819645551085
+Epoch [8/10], Training Loss: 0.0024, Validation Loss: 0.0024, PSNR: 26.28371149711724
+Epoch [9/10], Training Loss: 0.0023, Validation Loss: 0.0025, PSNR: 25.960772558219183
+[I 2023-06-27 12:02:00,600] Trial 12 finished with value: 0.002333261383076509 and parameters: {'lr': 0.0043647639127879605, 'd': 126, 's': 17, 'm': 2}. Best is trial 12 with value: 0.002333261383076509.
+Epoch [10/10], Training Loss: 0.0023, Validation Loss: 0.0023, PSNR: 26.320366067402453
+Epoch [1/10], Training Loss: 0.0255, Validation Loss: 0.0083, PSNR: 20.822148494273833
+Epoch [2/10], Training Loss: 0.0082, Validation Loss: 0.0073, PSNR: 21.37296243689859
+Epoch [3/10], Training Loss: 0.0046, Validation Loss: 0.0037, PSNR: 24.321634773956685
+Epoch [4/10], Training Loss: 0.0036, Validation Loss: 0.0035, PSNR: 24.61583301301618
+Epoch [5/10], Training Loss: 0.0031, Validation Loss: 0.0033, PSNR: 24.775919402464247
+Epoch [6/10], Training Loss: 0.0031, Validation Loss: 0.0030, PSNR: 25.215386663742247
+Epoch [7/10], Training Loss: 0.0041, Validation Loss: 0.0030, PSNR: 25.17945636280183
+Epoch [8/10], Training Loss: 0.0026, Validation Loss: 0.0024, PSNR: 26.225777399626452
+Epoch [9/10], Training Loss: 0.0022, Validation Loss: 0.0023, PSNR: 26.457194389417396
+[I 2023-06-27 12:08:05,219] Trial 13 finished with value: 0.002260895872799059 and parameters: {'lr': 0.003944909128384236, 'd': 127, 's': 16, 'm': 2}. Best is trial 13 with value: 0.002260895872799059.
+Epoch [10/10], Training Loss: 0.0027, Validation Loss: 0.0033, PSNR: 24.826851763048747
+Epoch [1/10], Training Loss: 0.0291, Validation Loss: 0.0086, PSNR: 20.65118488133388
+Epoch [2/10], Training Loss: 0.0087, Validation Loss: 0.0091, PSNR: 20.418887791982776
+Epoch [3/10], Training Loss: 0.0053, Validation Loss: 0.0038, PSNR: 24.194966029951335
+Epoch [4/10], Training Loss: 0.0036, Validation Loss: 0.0038, PSNR: 24.195425011869666
+Epoch [5/10], Training Loss: 0.0033, Validation Loss: 0.0032, PSNR: 24.921573823717434
+Epoch [6/10], Training Loss: 0.0031, Validation Loss: 0.0032, PSNR: 24.919063555971036
+Epoch [7/10], Training Loss: 0.0030, Validation Loss: 0.0031, PSNR: 25.098069011159335
+Epoch [8/10], Training Loss: 0.0030, Validation Loss: 0.0029, PSNR: 25.363239641237247
+Epoch [9/10], Training Loss: 0.0029, Validation Loss: 0.0024, PSNR: 26.12480910958899
+[I 2023-06-27 12:14:10,359] Trial 14 finished with value: 0.002279778903660675 and parameters: {'lr': 0.0038450787202220214, 'd': 108, 's': 15, 'm': 2}. Best is trial 13 with value: 0.002260895872799059.
+Epoch [10/10], Training Loss: 0.0022, Validation Loss: 0.0023, PSNR: 26.421072694802973
+Epoch [1/10], Training Loss: 0.0268, Validation Loss: 0.0092, PSNR: 20.38247959968348
+Epoch [2/10], Training Loss: 0.0083, Validation Loss: 0.0071, PSNR: 21.480344781840415
+Epoch [3/10], Training Loss: 0.0074, Validation Loss: 0.0043, PSNR: 23.688119078095497
+Epoch [4/10], Training Loss: 0.0037, Validation Loss: 0.0046, PSNR: 23.385377575312734
+Epoch [5/10], Training Loss: 0.0034, Validation Loss: 0.0034, PSNR: 24.719658547004446
+Epoch [6/10], Training Loss: 0.0033, Validation Loss: 0.0033, PSNR: 24.84697089499368
+Epoch [7/10], Training Loss: 0.0030, Validation Loss: 0.0031, PSNR: 25.091189841684173
+Epoch [8/10], Training Loss: 0.0031, Validation Loss: 0.0030, PSNR: 25.187517323964663
+Epoch [9/10], Training Loss: 0.0029, Validation Loss: 0.0030, PSNR: 25.284788194021317
+[I 2023-06-27 12:20:15,674] Trial 15 finished with value: 0.0029615643977498013 and parameters: {'lr': 0.003360915837544811, 'd': 107, 's': 14, 'm': 3}. Best is trial 13 with value: 0.002260895872799059.
+Epoch [10/10], Training Loss: 0.0029, Validation Loss: 0.0030, PSNR: 25.273481099978575
+Epoch [1/10], Training Loss: 0.0495, Validation Loss: 0.0107, PSNR: 19.689467153304538
+Epoch [2/10], Training Loss: 0.0095, Validation Loss: 0.0086, PSNR: 20.636500056221152
+Epoch [3/10], Training Loss: 0.0086, Validation Loss: 0.0081, PSNR: 20.8921417390906
+Epoch [4/10], Training Loss: 0.0079, Validation Loss: 0.0075, PSNR: 21.27063102736324
+Epoch [5/10], Training Loss: 0.0061, Validation Loss: 0.0047, PSNR: 23.29196632836699
+Epoch [6/10], Training Loss: 0.0043, Validation Loss: 0.0048, PSNR: 23.218727067007954
+Epoch [7/10], Training Loss: 0.0039, Validation Loss: 0.0038, PSNR: 24.157034434032163
+Epoch [8/10], Training Loss: 0.0038, Validation Loss: 0.0037, PSNR: 24.33413786067812
+Epoch [9/10], Training Loss: 0.0035, Validation Loss: 0.0036, PSNR: 24.475215311427284
+[I 2023-06-27 12:26:23,062] Trial 16 finished with value: 0.0034680402372032405 and parameters: {'lr': 0.0006153637906504254, 'd': 111, 's': 16, 'm': 4}. Best is trial 13 with value: 0.002260895872799059.
+Epoch [10/10], Training Loss: 0.0034, Validation Loss: 0.0035, PSNR: 24.599158723567385
+Epoch [1/10], Training Loss: 0.1541, Validation Loss: 0.0342, PSNR: 14.658549805622885
+Epoch [2/10], Training Loss: 0.0231, Validation Loss: 0.0169, PSNR: 17.728498953776885
+Epoch [3/10], Training Loss: 0.0151, Validation Loss: 0.0136, PSNR: 18.679977033105967
+Epoch [4/10], Training Loss: 0.0130, Validation Loss: 0.0120, PSNR: 19.204119827510848
+Epoch [5/10], Training Loss: 0.0113, Validation Loss: 0.0104, PSNR: 19.82768031956286
+Epoch [6/10], Training Loss: 0.0099, Validation Loss: 0.0093, PSNR: 20.299664645092275
+Epoch [7/10], Training Loss: 0.0091, Validation Loss: 0.0089, PSNR: 20.507243290205707
+Epoch [8/10], Training Loss: 0.0088, Validation Loss: 0.0085, PSNR: 20.680488593011436
+Epoch [9/10], Training Loss: 0.0085, Validation Loss: 0.0083, PSNR: 20.83097729988909
+[I 2023-06-27 12:32:28,864] Trial 17 finished with value: 0.007906322584797938 and parameters: {'lr': 0.00010436136867739254, 'd': 111, 's': 12, 'm': 2}. Best is trial 13 with value: 0.002260895872799059.
+Epoch [10/10], Training Loss: 0.0081, Validation Loss: 0.0079, PSNR: 21.020254700411613
+Epoch [1/10], Training Loss: 0.0295, Validation Loss: 0.0089, PSNR: 20.482008820612517
+Epoch [2/10], Training Loss: 0.0070, Validation Loss: 0.0045, PSNR: 23.448271482260076
+Epoch [3/10], Training Loss: 0.0040, Validation Loss: 0.0037, PSNR: 24.35441057083316
+Epoch [4/10], Training Loss: 0.0034, Validation Loss: 0.0036, PSNR: 24.394402086652125
+Epoch [5/10], Training Loss: 0.0032, Validation Loss: 0.0032, PSNR: 24.984280525433885
+Epoch [6/10], Training Loss: 0.0034, Validation Loss: 0.0035, PSNR: 24.544065921811086
+Epoch [7/10], Training Loss: 0.0027, Validation Loss: 0.0025, PSNR: 26.08037147810817
+Epoch [8/10], Training Loss: 0.0024, Validation Loss: 0.0024, PSNR: 26.260283030786603
+Epoch [9/10], Training Loss: 0.0023, Validation Loss: 0.0023, PSNR: 26.343502540159804
+[I 2023-06-27 12:38:36,334] Trial 18 finished with value: 0.002263621656068911 and parameters: {'lr': 0.0029892068544955163, 'd': 102, 's': 11, 'm': 3}. Best is trial 13 with value: 0.002260895872799059.
+Epoch [10/10], Training Loss: 0.0023, Validation Loss: 0.0023, PSNR: 26.451961598214247
+Epoch [1/10], Training Loss: 0.0327, Validation Loss: 0.0098, PSNR: 20.106700917677962
+Epoch [2/10], Training Loss: 0.0088, Validation Loss: 0.0077, PSNR: 21.141927795425623
+Epoch [3/10], Training Loss: 0.0075, Validation Loss: 0.0056, PSNR: 22.55694545820674
+Epoch [4/10], Training Loss: 0.0041, Validation Loss: 0.0038, PSNR: 24.191732100352624
+Epoch [5/10], Training Loss: 0.0036, Validation Loss: 0.0035, PSNR: 24.50182556974244
+Epoch [6/10], Training Loss: 0.0035, Validation Loss: 0.0033, PSNR: 24.77095862540469
+Epoch [7/10], Training Loss: 0.0033, Validation Loss: 0.0032, PSNR: 24.962799495500747
+Epoch [8/10], Training Loss: 0.0032, Validation Loss: 0.0033, PSNR: 24.870809742137165
+Epoch [9/10], Training Loss: 0.0029, Validation Loss: 0.0026, PSNR: 25.80541182804275
+[I 2023-06-27 12:44:43,200] Trial 19 finished with value: 0.002524806302972138 and parameters: {'lr': 0.0021526955238489803, 'd': 98, 's': 10, 'm': 3}. Best is trial 13 with value: 0.002260895872799059.
+Epoch [10/10], Training Loss: 0.0024, Validation Loss: 0.0025, PSNR: 25.977719342887177
+Epoch [1/10], Training Loss: 0.0241, Validation Loss: 0.0082, PSNR: 20.887062440519554
+Epoch [2/10], Training Loss: 0.0110, Validation Loss: 0.0085, PSNR: 20.71907149942423
+Epoch [3/10], Training Loss: 0.0070, Validation Loss: 0.0058, PSNR: 22.37855594801045
+Epoch [4/10], Training Loss: 0.0071, Validation Loss: 0.0064, PSNR: 21.967615048962614
+Epoch [5/10], Training Loss: 0.0043, Validation Loss: 0.0034, PSNR: 24.639183302074365
+Epoch [6/10], Training Loss: 0.0032, Validation Loss: 0.0033, PSNR: 24.848358304443103
+Epoch [7/10], Training Loss: 0.0032, Validation Loss: 0.0031, PSNR: 25.027412882869676
+Epoch [8/10], Training Loss: 0.0030, Validation Loss: 0.0031, PSNR: 25.111650834227966
+Epoch [9/10], Training Loss: 0.0032, Validation Loss: 0.0030, PSNR: 25.17442391740033
+[I 2023-06-27 12:50:44,808] Trial 20 finished with value: 0.002934116350176434 and parameters: {'lr': 0.004889666954721834, 'd': 116, 's': 13, 'm': 5}. Best is trial 13 with value: 0.002260895872799059.
+Epoch [10/10], Training Loss: 0.0029, Validation Loss: 0.0029, PSNR: 25.32522668530326
+Epoch [1/10], Training Loss: 0.0279, Validation Loss: 0.0098, PSNR: 20.096848338045422
+Epoch [2/10], Training Loss: 0.0085, Validation Loss: 0.0080, PSNR: 20.970847645610625
+Epoch [3/10], Training Loss: 0.0050, Validation Loss: 0.0068, PSNR: 21.696693903177223
+Epoch [4/10], Training Loss: 0.0038, Validation Loss: 0.0037, PSNR: 24.281951044330675
+Epoch [5/10], Training Loss: 0.0033, Validation Loss: 0.0034, PSNR: 24.732298240816533
+Epoch [6/10], Training Loss: 0.0033, Validation Loss: 0.0032, PSNR: 24.922245403458817
+Epoch [7/10], Training Loss: 0.0031, Validation Loss: 0.0034, PSNR: 24.68141375179894
+Epoch [8/10], Training Loss: 0.0038, Validation Loss: 0.0033, PSNR: 24.832412102736228
+Epoch [9/10], Training Loss: 0.0030, Validation Loss: 0.0030, PSNR: 25.190386551830606
+[I 2023-06-27 12:56:48,758] Trial 21 finished with value: 0.002624190521116058 and parameters: {'lr': 0.0034841508728279927, 'd': 100, 's': 15, 'm': 2}. Best is trial 13 with value: 0.002260895872799059.
+Epoch [10/10], Training Loss: 0.0028, Validation Loss: 0.0026, PSNR: 25.81004637564024
+Epoch [1/10], Training Loss: 0.0269, Validation Loss: 0.0097, PSNR: 20.137057725892085
+Epoch [2/10], Training Loss: 0.0061, Validation Loss: 0.0044, PSNR: 23.608630736935755
+Epoch [3/10], Training Loss: 0.0039, Validation Loss: 0.0036, PSNR: 24.428455730017685
+Epoch [4/10], Training Loss: 0.0035, Validation Loss: 0.0047, PSNR: 23.313216887061724
+Epoch [5/10], Training Loss: 0.0033, Validation Loss: 0.0036, PSNR: 24.41174496106015
+Epoch [6/10], Training Loss: 0.0032, Validation Loss: 0.0029, PSNR: 25.331484624095108
+Epoch [7/10], Training Loss: 0.0027, Validation Loss: 0.0027, PSNR: 25.686803637917816
+Epoch [8/10], Training Loss: 0.0024, Validation Loss: 0.0026, PSNR: 25.914688432109084
+Epoch [9/10], Training Loss: 0.0026, Validation Loss: 0.0023, PSNR: 26.326835590839835
+[I 2023-06-27 13:02:52,492] Trial 22 finished with value: 0.002245934532644848 and parameters: {'lr': 0.0027743315476459556, 'd': 116, 's': 15, 'm': 3}. Best is trial 22 with value: 0.002245934532644848.
+Epoch [10/10], Training Loss: 0.0023, Validation Loss: 0.0022, PSNR: 26.486029072577626
+Epoch [1/10], Training Loss: 0.0266, Validation Loss: 0.0088, PSNR: 20.55539125307536
+Epoch [2/10], Training Loss: 0.0080, Validation Loss: 0.0072, PSNR: 21.427859670990518
+Epoch [3/10], Training Loss: 0.0059, Validation Loss: 0.0038, PSNR: 24.21476155782422
+Epoch [4/10], Training Loss: 0.0034, Validation Loss: 0.0034, PSNR: 24.685169135762326
+Epoch [5/10], Training Loss: 0.0032, Validation Loss: 0.0033, PSNR: 24.754896625297697
+Epoch [6/10], Training Loss: 0.0034, Validation Loss: 0.0034, PSNR: 24.720685135819963
+Epoch [7/10], Training Loss: 0.0030, Validation Loss: 0.0031, PSNR: 25.14765114137258
+Epoch [8/10], Training Loss: 0.0030, Validation Loss: 0.0030, PSNR: 25.239084791478174
+Epoch [9/10], Training Loss: 0.0029, Validation Loss: 0.0029, PSNR: 25.352161122311916
+[I 2023-06-27 13:08:54,928] Trial 23 finished with value: 0.0024529861519113185 and parameters: {'lr': 0.0021180306169478946, 'd': 122, 's': 11, 'm': 4}. Best is trial 22 with value: 0.002245934532644848.
+Epoch [10/10], Training Loss: 0.0029, Validation Loss: 0.0025, PSNR: 26.103049035528784
+Epoch [1/10], Training Loss: 0.0293, Validation Loss: 0.0096, PSNR: 20.189543852184592
+Epoch [2/10], Training Loss: 0.0082, Validation Loss: 0.0071, PSNR: 21.462880129197124
+Epoch [3/10], Training Loss: 0.0059, Validation Loss: 0.0040, PSNR: 24.031929922063547
+Epoch [4/10], Training Loss: 0.0037, Validation Loss: 0.0037, PSNR: 24.28171568706962
+Epoch [5/10], Training Loss: 0.0035, Validation Loss: 0.0034, PSNR: 24.723441221473617
+Epoch [6/10], Training Loss: 0.0036, Validation Loss: 0.0033, PSNR: 24.839790321729595
+Epoch [7/10], Training Loss: 0.0031, Validation Loss: 0.0031, PSNR: 25.073253258608105
+Epoch [8/10], Training Loss: 0.0029, Validation Loss: 0.0026, PSNR: 25.902532376533344
+Epoch [9/10], Training Loss: 0.0025, Validation Loss: 0.0024, PSNR: 26.1957503791188
+[I 2023-06-27 13:14:57,629] Trial 24 finished with value: 0.0023120366657773655 and parameters: {'lr': 0.0026686351394649933, 'd': 118, 's': 18, 'm': 3}. Best is trial 22 with value: 0.002245934532644848.
+Epoch [10/10], Training Loss: 0.0024, Validation Loss: 0.0023, PSNR: 26.360052828732563
+Best trial:
+  Value: 0.002245934532644848
+  Params: 
+    lr: 0.0027743315476459556
+    d: 116
+    s: 15
+    m: 3

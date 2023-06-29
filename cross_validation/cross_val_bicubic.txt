@@ -1,0 +1,6 @@
+Loss (validation): 0.0017, PSNR (validation): 27.584989508754305
+Loss (validation): 0.0021, PSNR (validation): 26.820065889354446
+Loss (validation): 0.0020, PSNR (validation): 27.080431909968024
+Loss (validation): 0.0020, PSNR (validation): 26.924977038762584
+Loss (validation): 0.0020, PSNR (validation): 26.93518305619841
+Total PSNR:27.06912948060755

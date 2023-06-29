@@ -1,0 +1,85 @@
+Epoch [1/20], Training Loss: 0.0218, Validation Loss: 0.0035, PSNR: 24.574824188106483
+Training:  10%|█         | 2/20 [01:11<10:40, 35.58s/it]
+Epoch [2/20], Training Loss: 0.0027, Validation Loss: 0.0025, PSNR: 26.092214565556723
+Training:  15%|█▌        | 3/20 [01:46<10:04, 35.55s/it]
+Epoch [3/20], Training Loss: 0.0023, Validation Loss: 0.0023, PSNR: 26.386814660661248
+Training:  20%|██        | 4/20 [02:22<09:29, 35.58s/it]
+Epoch [4/20], Training Loss: 0.0022, Validation Loss: 0.0022, PSNR: 26.506070209343193
+Training:  25%|██▌       | 5/20 [02:57<08:54, 35.61s/it]
+Epoch [5/20], Training Loss: 0.0021, Validation Loss: 0.0022, PSNR: 26.609773234482038
+Training:  30%|███       | 6/20 [03:33<08:16, 35.47s/it]
+Epoch [6/20], Training Loss: 0.0021, Validation Loss: 0.0022, PSNR: 26.64379954432334
+Training:  35%|███▌      | 7/20 [04:08<07:42, 35.57s/it]
+Epoch [7/20], Training Loss: 0.0021, Validation Loss: 0.0021, PSNR: 26.680423600457146
+Training:  40%|████      | 8/20 [04:44<07:07, 35.63s/it]
+Epoch [8/20], Training Loss: 0.0021, Validation Loss: 0.0021, PSNR: 26.6828466409601
+Training:  45%|████▌     | 9/20 [05:19<06:30, 35.49s/it]
+Epoch [9/20], Training Loss: 0.0020, Validation Loss: 0.0021, PSNR: 26.726362812088272
+Training:  50%|█████     | 10/20 [05:55<05:55, 35.52s/it]
+Epoch [10/20], Training Loss: 0.0020, Validation Loss: 0.0021, PSNR: 26.740223898929194
+Training:  55%|█████▌    | 11/20 [06:30<05:19, 35.50s/it]
+Epoch [11/20], Training Loss: 0.0021, Validation Loss: 0.0021, PSNR: 26.755392060898288
+Training:  60%|██████    | 12/20 [07:06<04:44, 35.61s/it]
+Epoch [12/20], Training Loss: 0.0020, Validation Loss: 0.0021, PSNR: 26.76761784619871
+Training:  65%|██████▌   | 13/20 [07:42<04:10, 35.72s/it]
+Epoch [13/20], Training Loss: 0.0020, Validation Loss: 0.0021, PSNR: 26.776877190583946
+Training:  70%|███████   | 14/20 [08:18<03:33, 35.65s/it]
+Epoch [14/20], Training Loss: 0.0020, Validation Loss: 0.0021, PSNR: 26.732564058921096
+Training:  75%|███████▌  | 15/20 [08:54<02:58, 35.72s/it]
+Epoch [15/20], Training Loss: 0.0020, Validation Loss: 0.0021, PSNR: 26.796880706708475
+Training:  80%|████████  | 16/20 [09:29<02:22, 35.64s/it]
+Epoch [16/20], Training Loss: 0.0020, Validation Loss: 0.0021, PSNR: 26.781603966754595
+Training:  85%|████████▌ | 17/20 [10:05<01:47, 35.76s/it]
+Epoch [17/20], Training Loss: 0.0020, Validation Loss: 0.0021, PSNR: 26.762085695475545
+Training:  90%|█████████ | 18/20 [10:41<01:11, 35.69s/it]
+Epoch [18/20], Training Loss: 0.0020, Validation Loss: 0.0021, PSNR: 26.820705341470536
+Training:  95%|█████████▌| 19/20 [11:16<00:35, 35.69s/it]
+Epoch [19/20], Training Loss: 0.0020, Validation Loss: 0.0021, PSNR: 26.82876859027973
+Training: 100%|██████████| 20/20 [11:52<00:00, 35.61s/it]
+[I 2023-06-27 22:35:09,014] Trial 0 finished with value: 0.0020734014416423936 and parameters: {'lr': 0.00046174374932954305}. Best is trial 0 with value: 0.0020734014416423936.
+Epoch [20/20], Training Loss: 0.0020, Validation Loss: 0.0021, PSNR: 26.83316603834161
+Training:   5%|▌         | 1/20 [00:35<11:15, 35.55s/it]
+Epoch [1/20], Training Loss: 0.0489, Validation Loss: 0.0124, PSNR: 19.072125256548894
+Training:  10%|█         | 2/20 [01:11<10:41, 35.65s/it]
+Epoch [2/20], Training Loss: 0.0105, Validation Loss: 0.0090, PSNR: 20.4427942035047
+Training:  15%|█▌        | 3/20 [01:46<10:03, 35.49s/it]
+Epoch [3/20], Training Loss: 0.0087, Validation Loss: 0.0083, PSNR: 20.826101706244593
+Training:  20%|██        | 4/20 [02:22<09:28, 35.56s/it]
+Epoch [4/20], Training Loss: 0.0083, Validation Loss: 0.0080, PSNR: 20.944615591468057
+Training:  25%|██▌       | 5/20 [02:57<08:53, 35.58s/it]
+Epoch [5/20], Training Loss: 0.0081, Validation Loss: 0.0080, PSNR: 20.99621032581701
+Training:  30%|███       | 6/20 [03:33<08:18, 35.58s/it]
+Epoch [6/20], Training Loss: 0.0081, Validation Loss: 0.0079, PSNR: 21.03454798570658
+Training:  35%|███▌      | 7/20 [04:09<07:44, 35.73s/it]
+Epoch [7/20], Training Loss: 0.0046, Validation Loss: 0.0023, PSNR: 26.29424480826743
+Training:  40%|████      | 8/20 [04:45<07:08, 35.72s/it]
+Epoch [8/20], Training Loss: 0.0022, Validation Loss: 0.0023, PSNR: 26.418678481344323
+Training:  45%|████▌     | 9/20 [05:20<06:33, 35.75s/it]
+Epoch [9/20], Training Loss: 0.0022, Validation Loss: 0.0022, PSNR: 26.49931684889291
+Training:  50%|█████     | 10/20 [05:56<05:58, 35.81s/it]
+Epoch [10/20], Training Loss: 0.0021, Validation Loss: 0.0022, PSNR: 26.55409251615339
+Training:  55%|█████▌    | 11/20 [06:32<05:22, 35.85s/it]
+Epoch [11/20], Training Loss: 0.0021, Validation Loss: 0.0022, PSNR: 26.594249211378717
+Training:  60%|██████    | 12/20 [07:08<04:46, 35.82s/it]
+Epoch [12/20], Training Loss: 0.0021, Validation Loss: 0.0022, PSNR: 26.622556644502815
+Training:  65%|██████▌   | 13/20 [07:44<04:10, 35.80s/it]
+Epoch [13/20], Training Loss: 0.0021, Validation Loss: 0.0022, PSNR: 26.64765770201527
+Training:  70%|███████   | 14/20 [08:19<03:34, 35.68s/it]
+Epoch [14/20], Training Loss: 0.0021, Validation Loss: 0.0022, PSNR: 26.673067662669354
+Training:  75%|███████▌  | 15/20 [08:55<02:58, 35.74s/it]
+Epoch [15/20], Training Loss: 0.0021, Validation Loss: 0.0021, PSNR: 26.690048131575615
+Training:  80%|████████  | 16/20 [09:31<02:23, 35.77s/it]
+Epoch [16/20], Training Loss: 0.0021, Validation Loss: 0.0021, PSNR: 26.704501382278032
+Training:  85%|████████▌ | 17/20 [10:07<01:47, 35.91s/it]
+Epoch [17/20], Training Loss: 0.0020, Validation Loss: 0.0021, PSNR: 26.719543508299974
+Training:  90%|█████████ | 18/20 [10:43<01:11, 35.92s/it]
+Epoch [18/20], Training Loss: 0.0020, Validation Loss: 0.0021, PSNR: 26.728258035358348
+Training:  95%|█████████▌| 19/20 [11:19<00:35, 35.92s/it]
+Epoch [19/20], Training Loss: 0.0020, Validation Loss: 0.0021, PSNR: 26.731579426711875
+Training: 100%|██████████| 20/20 [11:55<00:00, 35.79s/it]
+[I 2023-06-27 22:47:04,855] Trial 1 finished with value: 0.00211161293167 and parameters: {'lr': 0.00017470475063293098}. Best is trial 0 with value: 0.0020734014416423936.
+Epoch [20/20], Training Loss: 0.0020, Validation Loss: 0.0021, PSNR: 26.753856870121826
+Best trial:
+  Value: 0.0020734014416423936
+  Params: 
+    lr: 0.00046174374932954305
