@@ -1,0 +1,450 @@
+Bicubic:
+Loss (validation): 0.0013, PSNR (validation): 29.01030708626982
+Loss (validation): 0.0010, PSNR (validation): 29.94742565942419
+Loss (validation): 0.0195, PSNR (validation): 17.099598651786906
+Loss (validation): 0.0366, PSNR (validation): 14.370033715324617
+Loss (validation): 0.0312, PSNR (validation): 15.061144889947649
+Total PSNR:21.097702000550633
+
+FSRCNN:
+Verstrichene Zeit: 436.97331857681274 Sekunden
+Epoch [1/50], Loss: 0.0408, PSNR: 13.889089195176055
+Loss (validation): 0.0126, PSNR (validation): 18.983572648920067
+Epoch [2/50], Loss: 0.0302, PSNR: 15.203916690704553
+Loss (validation): 0.0077, PSNR (validation): 21.12831706864704
+Epoch [3/50], Loss: 0.0302, PSNR: 15.195245162341438
+Loss (validation): 0.0074, PSNR (validation): 21.284554699676818
+Epoch [4/50], Loss: 0.0318, PSNR: 14.973174787742698
+Loss (validation): 0.0083, PSNR (validation): 20.824434724183227
+Epoch [5/50], Loss: 0.0279, PSNR: 15.541853631556439
+Loss (validation): 0.0051, PSNR (validation): 22.945482011728984
+Epoch [6/50], Loss: 0.0224, PSNR: 16.49626630084157
+Loss (validation): 0.0076, PSNR (validation): 21.186980595107862
+Epoch [7/50], Loss: 0.0183, PSNR: 17.38407792628243
+Loss (validation): 0.0072, PSNR (validation): 21.432031296498586
+Epoch [8/50], Loss: 0.0224, PSNR: 16.494680232801866
+Loss (validation): 0.0088, PSNR (validation): 20.563021160210184
+Early stopping triggered. No improvement in validation loss.
+Epoch [1/50], Loss: 0.0218, PSNR: 16.619475644471542
+Loss (validation): 0.0112, PSNR (validation): 19.508994111830432
+Epoch [2/50], Loss: 0.0155, PSNR: 18.094166460306703
+Loss (validation): 0.0065, PSNR (validation): 21.87923436324862
+Epoch [3/50], Loss: 0.0328, PSNR: 14.846040347979933
+Loss (validation): 0.0063, PSNR (validation): 21.980321593356095
+Epoch [4/50], Loss: 0.0194, PSNR: 17.120282054063377
+Loss (validation): 0.0055, PSNR (validation): 22.630890498853084
+Epoch [5/50], Loss: 0.0241, PSNR: 16.175556725754824
+Loss (validation): 0.0053, PSNR (validation): 22.76708280032427
+Epoch [6/50], Loss: 0.0149, PSNR: 18.26289492903879
+Loss (validation): 0.0065, PSNR (validation): 21.85535753774075
+Epoch [7/50], Loss: 0.0102, PSNR: 19.905057879412425
+Loss (validation): 0.0048, PSNR (validation): 23.148359646493624
+Epoch [8/50], Loss: 0.0219, PSNR: 16.600109368673472
+Loss (validation): 0.0051, PSNR (validation): 22.94679416643707
+Epoch [9/50], Loss: 0.0154, PSNR: 18.130558737861357
+Loss (validation): 0.0056, PSNR (validation): 22.489451473256903
+Epoch [10/50], Loss: 0.0230, PSNR: 16.375849703876927
+Loss (validation): 0.0071, PSNR (validation): 21.467989205287875
+Early stopping triggered. No improvement in validation loss.
+Epoch [1/50], Loss: 0.0335, PSNR: 14.747843490442524
+Loss (validation): 0.0273, PSNR (validation): 15.636097712481725
+Epoch [2/50], Loss: 0.0129, PSNR: 18.901399337254055
+Loss (validation): 0.0201, PSNR (validation): 16.958716367621633
+Epoch [3/50], Loss: 0.0200, PSNR: 16.993696102327263
+Loss (validation): 0.0182, PSNR (validation): 17.389732329087767
+Epoch [4/50], Loss: 0.0190, PSNR: 17.211895782954596
+Loss (validation): 0.0176, PSNR (validation): 17.547963759032502
+Epoch [5/50], Loss: 0.0262, PSNR: 15.813281730090036
+Loss (validation): 0.0174, PSNR (validation): 17.603107627475886
+Epoch [6/50], Loss: 0.0124, PSNR: 19.057937884630917
+Loss (validation): 0.0234, PSNR (validation): 16.31084082980373
+Epoch [7/50], Loss: 0.0240, PSNR: 16.19845923122117
+Loss (validation): 0.0232, PSNR (validation): 16.336217643014173
+Epoch [8/50], Loss: 0.0201, PSNR: 16.977327704507644
+Loss (validation): 0.0189, PSNR (validation): 17.22780458273799
+Early stopping triggered. No improvement in validation loss.
+Epoch [1/50], Loss: 0.0222, PSNR: 16.540539160847036
+Loss (validation): 0.0378, PSNR (validation): 14.220442030130616
+Epoch [2/50], Loss: 0.0174, PSNR: 17.58303572233395
+Loss (validation): 0.0332, PSNR (validation): 14.793273718236309
+Epoch [3/50], Loss: 0.0050, PSNR: 23.049941153338416
+Loss (validation): 0.0307, PSNR (validation): 15.129124369061667
+Epoch [4/50], Loss: 0.0145, PSNR: 18.37742867724068
+Loss (validation): 0.0416, PSNR (validation): 13.809386750422938
+Epoch [5/50], Loss: 0.0130, PSNR: 18.85488576958775
+Loss (validation): 0.0301, PSNR (validation): 15.221176198587852
+Epoch [6/50], Loss: 0.0181, PSNR: 17.430104392685827
+Loss (validation): 0.0293, PSNR (validation): 15.325035649097662
+Epoch [7/50], Loss: 0.0196, PSNR: 17.080488262155228
+Loss (validation): 0.0292, PSNR (validation): 15.343414608379115
+Epoch [8/50], Loss: 0.0165, PSNR: 17.82404733328537
+Loss (validation): 0.0296, PSNR (validation): 15.289941528605308
+Epoch [9/50], Loss: 0.0161, PSNR: 17.930391220542447
+Loss (validation): 0.0315, PSNR (validation): 15.010388985752712
+Epoch [10/50], Loss: 0.0068, PSNR: 21.664223115184956
+Loss (validation): 0.0298, PSNR (validation): 15.257044411122289
+Early stopping triggered. No improvement in validation loss.
+Epoch [1/50], Loss: 0.0170, PSNR: 17.68978467703709
+Loss (validation): 0.0382, PSNR (validation): 14.182219708668118
+Epoch [2/50], Loss: 0.0223, PSNR: 16.5135212149351
+Loss (validation): 0.0299, PSNR (validation): 15.248874500369414
+Epoch [3/50], Loss: 0.0053, PSNR: 22.79711176360653
+Loss (validation): 0.0308, PSNR (validation): 15.120279091319999
+Epoch [4/50], Loss: 0.0074, PSNR: 21.31500848535873
+Loss (validation): 0.0283, PSNR (validation): 15.484271962726485
+Epoch [5/50], Loss: 0.0067, PSNR: 21.75287263165074
+Loss (validation): 0.0318, PSNR (validation): 14.976827363346016
+Epoch [6/50], Loss: 0.0182, PSNR: 17.4033943481006
+Loss (validation): 0.0305, PSNR (validation): 15.154468516976824
+Epoch [7/50], Loss: 0.0072, PSNR: 21.42885613501742
+Loss (validation): 0.0297, PSNR (validation): 15.274920830299916
+Early stopping triggered. No improvement in validation loss.
+Total PSNR:17.9980705771504
+
+
+[[18.983572648920067,
+  21.12831706864704,
+  21.284554699676818,
+  20.824434724183227,
+  22.945482011728984,
+  21.186980595107862,
+  21.432031296498586,
+  20.563021160210184],
+ [19.508994111830432,
+  21.87923436324862,
+  21.980321593356095,
+  22.630890498853084,
+  22.76708280032427,
+  21.85535753774075,
+  23.148359646493624,
+  22.94679416643707,
+  22.489451473256903,
+  21.467989205287875],
+ [15.636097712481725,
+  16.958716367621633,
+  17.389732329087767,
+  17.547963759032502,
+  17.603107627475886,
+  16.31084082980373,
+  16.336217643014173,
+  17.22780458273799],
+ [14.220442030130616,
+  14.793273718236309,
+  15.129124369061667,
+  13.809386750422938,
+  15.221176198587852,
+  15.325035649097662,
+  15.343414608379115,
+  15.289941528605308,
+  15.010388985752712,
+  15.257044411122289],
+ [14.182219708668118,
+  15.248874500369414,
+  15.120279091319999,
+  15.484271962726485,
+  14.976827363346016,
+  15.154468516976824,
+  15.274920830299916]]
+
+ESPCN:
+Zeit: 197.031729221344 Sekunden
+Epoch [1/50], Loss: 0.0319, PSNR: 14.959340131409288
+Loss (validation): 0.0045, PSNR (validation): 23.49988311483351
+Epoch [2/50], Loss: 0.0486, PSNR: 13.136005560870988
+Loss (validation): 0.0044, PSNR (validation): 23.556260106697454
+Epoch [3/50], Loss: 0.0251, PSNR: 15.999540015358185
+Loss (validation): 0.0058, PSNR (validation): 22.400426612953638
+Epoch [4/50], Loss: 0.0258, PSNR: 15.886157812696794
+Loss (validation): 0.0059, PSNR (validation): 22.318162020192478
+Epoch [5/50], Loss: 0.0269, PSNR: 15.700670409537896
+Loss (validation): 0.0105, PSNR (validation): 19.794329092937396
+Early stopping triggered. No improvement in validation loss.
+Epoch [1/50], Loss: 0.0338, PSNR: 14.706039183091706
+Loss (validation): 0.0101, PSNR (validation): 19.941897025419365
+Epoch [2/50], Loss: 0.0173, PSNR: 17.61397573051592
+Loss (validation): 0.0034, PSNR (validation): 24.744733675418757
+Epoch [3/50], Loss: 0.0352, PSNR: 14.530575130641106
+Loss (validation): 0.0060, PSNR (validation): 22.183413005992776
+Epoch [4/50], Loss: 0.0141, PSNR: 18.492723686563156
+Loss (validation): 0.0049, PSNR (validation): 23.116843251409733
+Epoch [5/50], Loss: 0.0096, PSNR: 20.19220929686795
+Loss (validation): 0.0041, PSNR (validation): 23.85523265525366
+Early stopping triggered. No improvement in validation loss.
+Epoch [1/50], Loss: 0.0336, PSNR: 14.736513006051004
+Loss (validation): 0.0197, PSNR (validation): 17.059779244043575
+Epoch [2/50], Loss: 0.0199, PSNR: 17.011858741583474
+Loss (validation): 0.0181, PSNR (validation): 17.431110486890752
+Epoch [3/50], Loss: 0.0065, PSNR: 21.850739732211487
+Loss (validation): 0.0170, PSNR (validation): 17.699274573566925
+Epoch [4/50], Loss: 0.0076, PSNR: 21.186945848135505
+Loss (validation): 0.0172, PSNR (validation): 17.651777612801602
+Epoch [5/50], Loss: 0.0119, PSNR: 19.23066626208477
+Loss (validation): 0.0177, PSNR (validation): 17.518817880711254
+Epoch [6/50], Loss: 0.0240, PSNR: 16.19796608009582
+Loss (validation): 0.0196, PSNR (validation): 17.083489130958768
+Early stopping triggered. No improvement in validation loss.
+Epoch [1/50], Loss: 0.0099, PSNR: 20.05815428363411
+Loss (validation): 0.0321, PSNR (validation): 14.928288587066216
+Epoch [2/50], Loss: 0.0118, PSNR: 19.278510750659933
+Loss (validation): 0.0313, PSNR (validation): 15.045768142484604
+Epoch [3/50], Loss: 0.0183, PSNR: 17.383897662854398
+Loss (validation): 0.0318, PSNR (validation): 14.981413969305377
+Epoch [4/50], Loss: 0.0153, PSNR: 18.15795073411224
+Loss (validation): 0.0339, PSNR (validation): 14.693737394952151
+Epoch [5/50], Loss: 0.0075, PSNR: 21.239764776085927
+Loss (validation): 0.0334, PSNR (validation): 14.756945930620605
+Early stopping triggered. No improvement in validation loss.
+Epoch [1/50], Loss: 0.0266, PSNR: 15.756600273166557
+Loss (validation): 0.0401, PSNR (validation): 13.968339268993102
+Epoch [2/50], Loss: 0.0221, PSNR: 16.56285717812525
+Loss (validation): 0.0405, PSNR (validation): 13.928508902767183
+Epoch [3/50], Loss: 0.0241, PSNR: 16.178116705115993
+Loss (validation): 0.0390, PSNR (validation): 14.08428000268733
+Epoch [4/50], Loss: 0.0369, PSNR: 14.324590398432273
+Loss (validation): 0.0382, PSNR (validation): 14.18313697803216
+Epoch [5/50], Loss: 0.0263, PSNR: 15.803937107128148
+Loss (validation): 0.0392, PSNR (validation): 14.06533188208515
+Epoch [6/50], Loss: 0.0281, PSNR: 15.516194100205546
+Loss (validation): 0.0312, PSNR (validation): 15.057654448269878
+Epoch [7/50], Loss: 0.0072, PSNR: 21.452572696048364
+Loss (validation): 0.0299, PSNR (validation): 15.23736964794276
+Epoch [8/50], Loss: 0.0099, PSNR: 20.028867676297793
+Loss (validation): 0.0303, PSNR (validation): 15.187063488093175
+Epoch [9/50], Loss: 0.0130, PSNR: 18.854782921583258
+Loss (validation): 0.0293, PSNR (validation): 15.325488540521297
+Epoch [10/50], Loss: 0.0186, PSNR: 17.314614362150536
+Loss (validation): 0.0289, PSNR (validation): 15.395597270507402
+Epoch [11/50], Loss: 0.0058, PSNR: 22.34633224685584
+Loss (validation): 0.0288, PSNR (validation): 15.407326381725747
+Epoch [12/50], Loss: 0.0167, PSNR: 17.775749517894116
+Loss (validation): 0.0315, PSNR (validation): 15.021456738350295
+Epoch [13/50], Loss: 0.0149, PSNR: 18.254948400558668
+Loss (validation): 0.0302, PSNR (validation): 15.194616768790937
+Epoch [14/50], Loss: 0.0037, PSNR: 24.315393566709815
+Loss (validation): 0.0314, PSNR (validation): 15.02635156587434
+Early stopping triggered. No improvement in validation loss.
+Total PSNR:18.432490088929757
+
+[[23.49988311483351,
+  23.556260106697454,
+  22.400426612953638,
+  22.318162020192478,
+  19.794329092937396],
+ [19.941897025419365,
+  24.744733675418757,
+  22.183413005992776,
+  23.116843251409733,
+  23.85523265525366],
+ [17.059779244043575,
+  17.431110486890752,
+  17.699274573566925,
+  17.651777612801602,
+  17.518817880711254,
+  17.083489130958768],
+ [14.928288587066216,
+  15.045768142484604,
+  14.981413969305377,
+  14.693737394952151,
+  14.756945930620605],
+ [13.968339268993102,
+  13.928508902767183,
+  14.08428000268733,
+  14.18313697803216,
+  14.06533188208515,
+  15.057654448269878,
+  15.23736964794276,
+  15.187063488093175,
+  15.325488540521297,
+  15.395597270507402,
+  15.407326381725747,
+  15.021456738350295,
+  15.194616768790937,
+  15.02635156587434]]
+
+SRCNN:
+Verstrichene Zeit: 1095.428751707077 Sekunden
+Epoch [1/50], Loss: 0.0310, PSNR: 15.082404726782517
+Loss (validation): 0.0055, PSNR (validation): 22.59833507559508
+Epoch [2/50], Loss: 0.0130, PSNR: 18.847065398723547
+Loss (validation): 0.0035, PSNR (validation): 24.618517541166863
+Epoch [3/50], Loss: 0.0121, PSNR: 19.165421645525086
+Loss (validation): 0.0031, PSNR (validation): 25.08054891113916
+Epoch [4/50], Loss: 0.0147, PSNR: 18.325609239666598
+Loss (validation): 0.0046, PSNR (validation): 23.3335223404446
+Epoch [5/50], Loss: 0.0184, PSNR: 17.36000799589656
+Loss (validation): 0.0038, PSNR (validation): 24.22484779275194
+Epoch [6/50], Loss: 0.0172, PSNR: 17.650206452679292
+Loss (validation): 0.0030, PSNR (validation): 25.282820349021932
+Epoch [7/50], Loss: 0.0223, PSNR: 16.511243354888236
+Loss (validation): 0.0041, PSNR (validation): 23.86078887983672
+Epoch [8/50], Loss: 0.0200, PSNR: 16.98498377107424
+Loss (validation): 0.0032, PSNR (validation): 24.903348163036625
+Epoch [9/50], Loss: 0.0194, PSNR: 17.11862803299299
+Loss (validation): 0.0051, PSNR (validation): 22.951926645761173
+Early stopping triggered. No improvement in validation loss.
+Epoch [1/50], Loss: 0.0211, PSNR: 16.76334201878423
+Loss (validation): 0.0061, PSNR (validation): 22.119200212215357
+Epoch [2/50], Loss: 0.0177, PSNR: 17.51034801402938
+Loss (validation): 0.0043, PSNR (validation): 23.659288894722728
+Epoch [3/50], Loss: 0.0163, PSNR: 17.866599193869426
+Loss (validation): 0.0033, PSNR (validation): 24.786554953630056
+Epoch [4/50], Loss: 0.0114, PSNR: 19.449760832637097
+Loss (validation): 0.0032, PSNR (validation): 24.939916292225988
+Epoch [5/50], Loss: 0.0174, PSNR: 17.582605912594083
+Loss (validation): 0.0033, PSNR (validation): 24.822594249903055
+Epoch [6/50], Loss: 0.0249, PSNR: 16.038393051818588
+Loss (validation): 0.0043, PSNR (validation): 23.64570847820936
+Epoch [7/50], Loss: 0.0218, PSNR: 16.618546829404885
+Loss (validation): 0.0049, PSNR (validation): 23.11277773562201
+Early stopping triggered. No improvement in validation loss.
+Epoch [1/50], Loss: 0.0234, PSNR: 16.300484727406214
+Loss (validation): 0.0190, PSNR (validation): 17.2094407990515
+Epoch [2/50], Loss: 0.0058, PSNR: 22.365629115196413
+Loss (validation): 0.0177, PSNR (validation): 17.522755445809967
+Epoch [3/50], Loss: 0.0165, PSNR: 17.817677750172628
+Loss (validation): 0.0170, PSNR (validation): 17.706713969422708
+Epoch [4/50], Loss: 0.0269, PSNR: 15.69885609769637
+Loss (validation): 0.0172, PSNR (validation): 17.6458864763396
+Epoch [5/50], Loss: 0.0137, PSNR: 18.636947867336936
+Loss (validation): 0.0169, PSNR (validation): 17.725190220383926
+Epoch [6/50], Loss: 0.0089, PSNR: 20.484170603435125
+Loss (validation): 0.0166, PSNR (validation): 17.79459122092964
+Epoch [7/50], Loss: 0.0166, PSNR: 17.788924736399792
+Loss (validation): 0.0164, PSNR (validation): 17.86459530805073
+Epoch [8/50], Loss: 0.0118, PSNR: 19.283930332839127
+Loss (validation): 0.0162, PSNR (validation): 17.91360958389445
+Epoch [9/50], Loss: 0.0097, PSNR: 20.128637590377455
+Loss (validation): 0.0174, PSNR (validation): 17.603981198949437
+Epoch [10/50], Loss: 0.0098, PSNR: 20.088407028248525
+Loss (validation): 0.0162, PSNR (validation): 17.89751269457108
+Epoch [11/50], Loss: 0.0227, PSNR: 16.441832231195125
+Loss (validation): 0.0160, PSNR (validation): 17.94988480375717
+Epoch [12/50], Loss: 0.0090, PSNR: 20.45345012753788
+Loss (validation): 0.0174, PSNR (validation): 17.595792881761575
+Epoch [13/50], Loss: 0.0125, PSNR: 19.018863023630367
+Loss (validation): 0.0159, PSNR (validation): 17.98063370285889
+Epoch [14/50], Loss: 0.0137, PSNR: 18.62455659977379
+Loss (validation): 0.0157, PSNR (validation): 18.040366941863738
+Epoch [15/50], Loss: 0.0106, PSNR: 19.762915642876088
+Loss (validation): 0.0162, PSNR (validation): 17.898343894317115
+Epoch [16/50], Loss: 0.0122, PSNR: 19.142472378734098
+Loss (validation): 0.0162, PSNR (validation): 17.896655343258786
+Epoch [17/50], Loss: 0.0152, PSNR: 18.176153398764562
+Loss (validation): 0.0156, PSNR (validation): 18.08105749421837
+Epoch [18/50], Loss: 0.0283, PSNR: 15.475620965229911
+Loss (validation): 0.0166, PSNR (validation): 17.799971626010382
+Epoch [19/50], Loss: 0.0138, PSNR: 18.61393897214602
+Loss (validation): 0.0160, PSNR (validation): 17.949291030902412
+Epoch [20/50], Loss: 0.0221, PSNR: 16.564909559556675
+Loss (validation): 0.0156, PSNR (validation): 18.068544557117715
+Early stopping triggered. No improvement in validation loss.
+Epoch [1/50], Loss: 0.0076, PSNR: 21.19567805759462
+Loss (validation): 0.0342, PSNR (validation): 14.664188720776172
+Epoch [2/50], Loss: 0.0059, PSNR: 22.31640120542537
+Loss (validation): 0.0330, PSNR (validation): 14.82032206674461
+Epoch [3/50], Loss: 0.0110, PSNR: 19.589058806018592
+Loss (validation): 0.0338, PSNR (validation): 14.706220160049575
+Epoch [4/50], Loss: 0.0067, PSNR: 21.729443968215392
+Loss (validation): 0.0321, PSNR (validation): 14.9329786475859
+Epoch [5/50], Loss: 0.0203, PSNR: 16.921031661665204
+Loss (validation): 0.0323, PSNR (validation): 14.912954417848312
+Epoch [6/50], Loss: 0.0037, PSNR: 24.28321450529605
+Loss (validation): 0.0341, PSNR (validation): 14.668670062430383
+Epoch [7/50], Loss: 0.0040, PSNR: 24.028452709016022
+Loss (validation): 0.0321, PSNR (validation): 14.93383876235833
+Epoch [8/50], Loss: 0.0039, PSNR: 24.06728682916091
+Loss (validation): 0.0307, PSNR (validation): 15.135549663645882
+Epoch [9/50], Loss: 0.0033, PSNR: 24.86266277233172
+Loss (validation): 0.0313, PSNR (validation): 15.039343195305872
+Epoch [10/50], Loss: 0.0176, PSNR: 17.55640449504581
+Loss (validation): 0.0333, PSNR (validation): 14.769496723336959
+Epoch [11/50], Loss: 0.0217, PSNR: 16.640130538029613
+Loss (validation): 0.0315, PSNR (validation): 15.018897672418872
+Early stopping triggered. No improvement in validation loss.
+Epoch [1/50], Loss: 0.0077, PSNR: 21.1483577689326
+Loss (validation): 0.0309, PSNR (validation): 15.097461848350196
+Epoch [2/50], Loss: 0.0099, PSNR: 20.05409222988404
+Loss (validation): 0.0293, PSNR (validation): 15.325173514126963
+Epoch [3/50], Loss: 0.0150, PSNR: 18.243538937955112
+Loss (validation): 0.0297, PSNR (validation): 15.265623255221364
+Epoch [4/50], Loss: 0.0057, PSNR: 22.437025668939356
+Loss (validation): 0.0291, PSNR (validation): 15.36106669992775
+Epoch [5/50], Loss: 0.0138, PSNR: 18.592771914127525
+Loss (validation): 0.0274, PSNR (validation): 15.62500414540083
+Epoch [6/50], Loss: 0.0085, PSNR: 20.720980737880783
+Loss (validation): 0.0273, PSNR (validation): 15.63964535627967
+Epoch [7/50], Loss: 0.0091, PSNR: 20.4071553244281
+Loss (validation): 0.0290, PSNR (validation): 15.378152714908229
+Epoch [8/50], Loss: 0.0064, PSNR: 21.935844349425196
+Loss (validation): 0.0280, PSNR (validation): 15.529309779214174
+Epoch [9/50], Loss: 0.0175, PSNR: 17.566257469443716
+Loss (validation): 0.0269, PSNR (validation): 15.704320091067647
+Epoch [10/50], Loss: 0.0123, PSNR: 19.116951683647734
+Loss (validation): 0.0273, PSNR (validation): 15.643500903910876
+Epoch [11/50], Loss: 0.0040, PSNR: 23.935838428985676
+Loss (validation): 0.0274, PSNR (validation): 15.628334264136958
+Epoch [12/50], Loss: 0.0110, PSNR: 19.593714044098945
+Loss (validation): 0.0292, PSNR (validation): 15.339892971476965
+Early stopping triggered. No improvement in validation loss.
+Total PSNR:19.22120903050185
+
+[[22.59833507559508,
+  24.618517541166863,
+  25.08054891113916,
+  23.3335223404446,
+  24.22484779275194,
+  25.282820349021932,
+  23.86078887983672,
+  24.903348163036625,
+  22.951926645761173],
+ [22.119200212215357,
+  23.659288894722728,
+  24.786554953630056,
+  24.939916292225988,
+  24.822594249903055,
+  23.64570847820936,
+  23.11277773562201],
+ [17.2094407990515,
+  17.522755445809967,
+  17.706713969422708,
+  17.6458864763396,
+  17.725190220383926,
+  17.79459122092964,
+  17.86459530805073,
+  17.91360958389445,
+  17.603981198949437,
+  17.89751269457108,
+  17.94988480375717,
+  17.595792881761575,
+  17.98063370285889,
+  18.040366941863738,
+  17.898343894317115,
+  17.896655343258786,
+  18.08105749421837,
+  17.799971626010382,
+  17.949291030902412,
+  18.068544557117715],
+ [14.664188720776172,
+  14.82032206674461,
+  14.706220160049575,
+  14.9329786475859,
+  14.912954417848312,
+  14.668670062430383,
+  14.93383876235833,
+  15.135549663645882,
+  15.039343195305872,
+  14.769496723336959,
+  15.018897672418872],
+ [15.097461848350196,
+  15.325173514126963,
+  15.265623255221364,
+  15.36106669992775,
+  15.62500414540083,
+  15.63964535627967,
+  15.378152714908229,
+  15.529309779214174,
+  15.704320091067647,
+  15.643500903910876,
+  15.628334264136958,
+  15.339892971476965]]
+
