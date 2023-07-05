@@ -1,3 +1,6 @@
+### Not for final model (test with  very small learning rate) but no improvements ###
+
+
 Epoch [1/20], Training Loss: 0.0218, Validation Loss: 0.0035, PSNR: 24.574824188106483
 Training:  10%|█         | 2/20 [01:11<10:40, 35.58s/it]
 Epoch [2/20], Training Loss: 0.0027, Validation Loss: 0.0025, PSNR: 26.092214565556723
