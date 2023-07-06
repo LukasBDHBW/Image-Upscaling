@@ -16,3 +16,6 @@ Fast SRCNN (FSRCNN): https://arxiv.org/pdf/1501.00092.pdf
 
 ## Evaluation Metric for tested approaches
 Peak signal-to-noise ratio (PSNR): https://de.mathworks.com/help/vision/ref/psnr.html
+
+## Requiremnts
+To install the requirements use: "pip install -r requirements.txt"
