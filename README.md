@@ -52,11 +52,7 @@ We created seperate folders for the results of the process steps for each datase
 
 ### testing only
 
-#### upload the test_notebook and the models to kaggle
-
-#### include the dog dataset into your kaggle notebook
-
-#### run the notebook
+### View & run the test_notebook at: https://www.kaggle.com/code/wmarcus/image-upscaling-cnns/notebook
 
 
 ### run everything
